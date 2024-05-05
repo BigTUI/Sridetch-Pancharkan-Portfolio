@@ -9,7 +9,7 @@
 - ปริญญาตรี วิศวกรรมศาสตร์ วิศวกรรมอิเล็กทรอนิกส์ สถาบันเทคโนโลยีราชมงคล วข.เทเวศร์ ปี พ.ศ.2533 ภฟส.4809 เลขที่สมาชิก : 55691
 - เคยทำงานที่ บริษัทโตชิบา ประเทศไทย (แผนกทีวี)
 
-## เครื่องราชอิสริยาภรณ์  https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/raj-01.png?raw=true
+## เครื่องราชอิสริยาภรณ์  
 - พ.ศ.2565 ![](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/raj-01.png?raw=true?ref_type=heads) [บ.ช.]ชั้นที่ 5 เบญจมาภรณ์ช้างเผือก
 - พ.ศ.2558 ![](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/raj-02.png?raw=true?ref_type=heads) [บ.ม.]ชั้นที่ 5 เบญจมาภรณ์มงกุฏไทย
 
