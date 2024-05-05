@@ -9,9 +9,9 @@
 - ปริญญาตรี วิศวกรรมศาสตร์ วิศวกรรมอิเล็กทรอนิกส์ สถาบันเทคโนโลยีราชมงคล วข.เทเวศร์ ปี พ.ศ.2533 ภฟส.4809 เลขที่สมาชิก : 55691
 - เคยทำงานที่ บริษัทโตชิบา ประเทศไทย (แผนกทีวี)
 
-## เครื่องราชอิสริยาภรณ์
-- พ.ศ.2565 ![](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81_%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_5.png?ref_type=heads) [บ.ช.]ชั้นที่ 5 เบญจมาภรณ์ช้างเผือก
-- พ.ศ.2558 ![](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%A1%E0%B8%87%E0%B8%81%E0%B8%B8%E0%B8%8F%E0%B9%84%E0%B8%97%E0%B8%A2_%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88_5_s.png?ref_type=heads) [บ.ม.]ชั้นที่ 5 เบญจมาภรณ์มงกุฏไทย
+## เครื่องราชอิสริยาภรณ์  https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/raj-01.png?raw=true
+- พ.ศ.2565 ![](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/raj-01.png?raw=true?ref_type=heads) [บ.ช.]ชั้นที่ 5 เบญจมาภรณ์ช้างเผือก
+- พ.ศ.2558 ![](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/raj-02.png?raw=true?ref_type=heads) [บ.ม.]ชั้นที่ 5 เบญจมาภรณ์มงกุฏไทย
 
 
 ## ประวัติการทำงานในการไฟฟ้าฝ่ายผลิตแห่งประเทศไทย (กฟผ.) 
@@ -64,6 +64,6 @@
     - [ ]  การนำองค์ความรู้ในด้านเทคโนโลยีดิจิทัล ไปต่อยอดให้เกิดธุรกิจใหม่ สร้างรายได้ให้ กฟผ. 
 
 # ภาพประกอบ 
-[![BigTUI Sridetch Pancharkan](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/OfficeTLE.png "NECTEC OfficeTLE")](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/OfficeTLE.png)
+[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OfficeTLE.png?raw=true "NECTEC OfficeTLE")](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OfficeTLE.png?raw=true)
 
-[![BigTUI Sridetch Pancharkan](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/OpenOffice.png?ref_type=heads "EGAT OpenOffice")](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/OpenOffice.png?ref_type=heads)
+[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OpenOffice.png?raw=true "EGAT OpenOffice")](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OpenOffice.png?raw=true)
