@@ -68,7 +68,7 @@
 
 [![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/OpenOffice.png?raw=true "EGAT OpenOffice")](https://github.com/BigTUI/CiRA-Image/blob/main/OpenOffice.png?raw=true)
 
-<hr width="100%"/>
-[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_Sridetch.jpg "EGAT OpenOffice")](https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_Sridetch.jpg)
+<hr width="100%"/> 
+[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_02.jpg "EGAT OpenOffice")](https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_02.jpg)
 
 [![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_Sridetch.jpg?raw=true "EGAT OpenOffice")](https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_Sridetch.jpg?raw=true)
