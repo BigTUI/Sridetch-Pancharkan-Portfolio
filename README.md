@@ -57,7 +57,7 @@
 - ทรัพยากรมนุษย์ [Maemoh Mine HR Report](https://powerbi.egat.co.th/pbireports/powerbi/MMM-Dashboard/MMM-HR/MMM%20Manpower?rs:embed=true "BI จำนวนผู้ปฎิบัติงาน และจำนวนผู้เกษียณ ชชม.")
 - เทคโนโลยีดิจิทัล
     - [ ]  โครงสร้างพื้นฐาน
-    - [ ]  เทคโนโลยีดิจิทัล เพื่อสนับสนุนงานด้านการผลิต และเพื่อการบริหาร
+    - [ ]  เทคโนโลยีปัญญาประดิษฐ์แบบ Low Code เพื่อสนับสนุนงานด้านการผลิต และเพื่อการบริหาร
     - [ ]  งบประมาณด้านเทคโนโลยีดิจิทัล
     - [ ]  การพัฒนาบุคลากรด้านเทคโนโลยีดิจิทัล 
     - [ ]  งานวิจัย พัฒนา และสิ่งประดิษฐ์ โดยใช้เทคโนโลยีดิจิทัลให้เกิดประโยชน์ต่อ กฟผ.  
@@ -67,3 +67,8 @@
 [![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/OfficeTLE.png?raw=true "NECTEC OfficeTLE")](https://github.com/BigTUI/CiRA-Image/blob/main/OfficeTLE.png?raw=true)
 
 [![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/OpenOffice.png?raw=true "EGAT OpenOffice")](https://github.com/BigTUI/CiRA-Image/blob/main/OpenOffice.png?raw=true)
+
+<hr width="100%"/>
+[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_02.jpg?raw=true "EGAT OpenOffice")](https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_02.jpg?raw=true)
+
+[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_Sridetch.jpg?raw=true "EGAT OpenOffice")](https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_Sridetch.jpg?raw=true)
