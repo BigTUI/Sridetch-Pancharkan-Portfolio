@@ -2,7 +2,7 @@
 ## แนะนำตัวกันก่อน
 สวัสดีทุกท่านที่มาเยือนเพจ แนะนำตัวของ นายศรีเดช ปัญจขันธ์ (ตุ้ย)
 
-[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/SridetchPancharkan.png?ref_type=heads "Sridetch Pancharkan")](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/SridetchPancharkan.png?raw=true)
+[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/SridetchPancharkan.png?ref_type=heads "Sridetch Pancharkan")](https://github.com/BigTUI/CiRA-Image/blob/main/SridetchPancharkan.png?raw=true)
 
 ## ประวัติส่วนบุคคล
 - นายศรีเดช ปัญจขันธ์ (Mr.Sridetch Pancharkan) รหัสประจำตัว 541699 
@@ -10,8 +10,8 @@
 - เคยทำงานที่ บริษัทโตชิบา ประเทศไทย (แผนกทีวี)
 
 ## เครื่องราชอิสริยาภรณ์  
-- พ.ศ.2565 ![](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/raj-01.png?raw=true?ref_type=heads) [บ.ช.]ชั้นที่ 5 เบญจมาภรณ์ช้างเผือก
-- พ.ศ.2558 ![](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/raj-02.png?raw=true?ref_type=heads) [บ.ม.]ชั้นที่ 5 เบญจมาภรณ์มงกุฏไทย
+- พ.ศ.2565 ![](https://github.com/BigTUI/CiRA-Image/blob/main/raj-01.png?raw=true?ref_type=heads) [บ.ช.]ชั้นที่ 5 เบญจมาภรณ์ช้างเผือก
+- พ.ศ.2558 ![](https://github.com/BigTUI/CiRA-Image/blob/main/raj-02.png?raw=true?ref_type=heads) [บ.ม.]ชั้นที่ 5 เบญจมาภรณ์มงกุฏไทย
 
 
 ## ประวัติการทำงานในการไฟฟ้าฝ่ายผลิตแห่งประเทศไทย (กฟผ.) 
@@ -29,8 +29,8 @@
     * คุณศรีเดช ปัญจขันธ์ โปรแกรม Writer, คุณสุพัตร์ สุประดิศกุล โปรแกรม Calc , คุณนรชัย ไกรฤกษ์ โปรแกรม Impress
 - จัดทำคู่มือการใช้งานออฟฟิศทะเล (OfficeTLE) ให้กับ NECTEC 
     * คุณศรีเดช ปัญจขันธ์ , คุณนรชัย ไกรฤกษ์
-- ริเริ่มนำเทคโนโลยี IoT (Internet of Things) มาสนับสนุนงานด้านการผลิตของเหมืองแม่เมาะ ทั้งงานด้านความปลอดภัยต่อชีวิติ และทรัพย์สินของ กฟผ. รวมไปถึงการขายผลให้ความรู้และแนะนำให้กับหน่วยงานต่างๆ ใน กฟผ. อย่างต่อเนื่องจนถึงปัจจุบัน [mmm-iotegat link](https://mmm-iotegat.egat.co.th/dashboard "Maemoh Mine IoT") [, SIRIKIR Dam IoT](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/IoEE_for_water_pump_system_at_Sirikit_Dam.pdf "SIRIKIT DAM IoT for Drinking Water System")
-- มีการพัฒนาต่อยอดบนระบบ EGAT GIS Center เพื่อสนับสนุนภาระกิจต่างๆ ของ กฟผ. เหมืองแม่เมาะ รวมทั้งขยายผลไปยังพื้นที่ ที่รับผิดชอบของ กบดน-ห.[EGAT Maemoh Mine GIS](http://10.249.111.129/web_data_gis/index.html "Maemoh Mine GIS")
+- ริเริ่มนำเทคโนโลยี IoT (Internet of Things) มาสนับสนุนงานด้านการผลิตของเหมืองแม่เมาะ ทั้งงานด้านความปลอดภัยต่อชีวิติ และทรัพย์สินของ กฟผ. รวมไปถึงการขายผลให้ความรู้และแนะนำให้กับหน่วยงานต่างๆ ใน กฟผ. อย่างต่อเนื่องจนถึงปัจจุบัน [mmm-iotegat link](https://mmm-iotegat.egat.co.th/dashboard "Maemoh Mine IoT") [, SIRIKIR Dam IoT](https://github.com/BigTUI/CiRA-Image/blob/main/IoEE_for_water_pump_system_at_Sirikit_Dam.pdf "SIRIKIT DAM IoT for Drinking Water System")
+- มีการพัฒนาต่อยอดบนระบบ EGAT GIS Center เพื่อสนับสนุนภาระกิจต่างๆ ของ กฟผ. เหมืองแม่เมาะ รวมทั้งขยายผลไปยังพื้นที่ ที่รับผิดชอบของ กบดน-ห.[EGAT Maemoh Mine GIS Intranet Only](http://10.249.111.129/web_data_gis/index.html "Maemoh Mine GIS")
 - มีการนำระบบ CCTV มาใช้เพื่อการควบคุมผู้รับจ้าง และงานรักษาความปลอดภัย ในพื้นที่ กฟผ. เหมืองแม่เมาะ ปัจจุบันมีการนำเทคโนโลยีดิจิทัลที่เกี่ยวข้องกับ Ai CCTV มาพัฒนาอย่างต่อเนื่อง 
 - ปัจุบันดูแลระบบเทคโนโลยีดิจิทัล ให้หน่วยงานต่างๆ ที่ปฎิบัติงานในพื้นที่ 18 จังหวัดภาคเหนือ เขตปฎิบัติการภาคเหนือ , เขื่อนภูมิพล , เขื่อนสิริกิติ์ , เหมืองแม่เมาะ และโรงไฟฟ้าแม่เมาะ ให้มีความพร้อมใช้งาน รวมไปถึงการแลกเปลี่ยนเรียนรู้ระหว่างหน่วยงานต่างๆ ให้มีการพัฒนาระบบงานอย่างต่อเนื่อง
 
@@ -64,6 +64,6 @@
     - [ ]  การนำองค์ความรู้ในด้านเทคโนโลยีดิจิทัล ไปต่อยอดให้เกิดธุรกิจใหม่ สร้างรายได้ให้ กฟผ. 
 
 # ภาพประกอบ 
-[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OfficeTLE.png?raw=true "NECTEC OfficeTLE")](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OfficeTLE.png?raw=true)
+[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/OfficeTLE.png?raw=true "NECTEC OfficeTLE")](https://github.com/BigTUI/CiRA-Image/blob/main/OfficeTLE.png?raw=true)
 
-[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OpenOffice.png?raw=true "EGAT OpenOffice")](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OpenOffice.png?raw=true)
+[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/OpenOffice.png?raw=true "EGAT OpenOffice")](https://github.com/BigTUI/CiRA-Image/blob/main/OpenOffice.png?raw=true)
