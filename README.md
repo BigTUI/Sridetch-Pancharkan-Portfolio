@@ -2,7 +2,7 @@
 ## แนะนำตัวกันก่อน
 สวัสดีทุกท่านที่มาเยือนเพจ แนะนำตัวของ นายศรีเดช ปัญจขันธ์ (ตุ้ย)
 
-[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/SridetchPancharkan.png?ref_type=heads "Sridetch Pancharkan")](https://github.com/BigTUI/CiRA-Image/blob/main/SridetchPancharkan.png?raw=true)
+[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/541699.png?ref_type=heads "Sridetch Pancharkan")](https://github.com/BigTUI/CiRA-Image/blob/main/541699.png?raw=true)
 
 ## ประวัติส่วนบุคคล
 - นายศรีเดช ปัญจขันธ์ (Mr.Sridetch Pancharkan) รหัสประจำตัว 541699 
