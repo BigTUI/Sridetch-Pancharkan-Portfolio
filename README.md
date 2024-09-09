@@ -76,7 +76,7 @@
 - DevSecOps [DevSecOps](https://aws.amazon.com/th/what-is/devsecops/ "DevSecOps คืออะไร") 
 - Ai Technology [2024 AI Index Report](https://aiindex.stanford.edu/report/ "2024 AI Index Report") [Download Report link](https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_AI-Index-Report-2024.pdf "Download 2024 AI Index Report") 
 ​
-# ความท้าทายในงาน กฟผ.
+## ความท้าทายในงาน กฟผ.
 - ทรัพยากรมนุษย์ [Maemoh Mine HR Report](https://powerbi.egat.co.th/pbireports/powerbi/MMM-Dashboard/MMM-HR/MMM%20Manpower?rs:embed=true "BI จำนวนผู้ปฎิบัติงาน และจำนวนผู้เกษียณ ชชม.")
 - เทคโนโลยีดิจิทัล
     - [ ]  โครงสร้างพื้นฐาน ระบบเครื่องแม่ข่าย ที่มีความพร้อมให้บริการอย่างต่อเนื่อง
