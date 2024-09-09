@@ -39,7 +39,7 @@
   
 - ผลักดันให้มีความร่วมมือระหว่าง EGAT กับ True เพื่อทดสอบระบบ 5G ในพื้นที่การทำเหมือง ในปี 2563 [EGAT-True MOU 5G](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/5G_MOU_EGAT_True.pdf) 
 
-- มีการพัฒนาต่อยอดบนระบบ EGAT GIS Center เพื่อสนับสนุนภาระกิจต่างๆ ของ กฟผ. เหมืองแม่เมาะ รวมทั้งขยายผลไปยังพื้นที่ ที่รับผิดชอบของ กบดน-ห. EGAT Maemoh Mine GIS
+- มีการพัฒนาต่อยอดบนระบบ EGAT GIS Center เพื่อสนับสนุนภาระกิจต่างๆ ของ กฟผ. เหมืองแม่เมาะ รวมทั้งขยายผลไปยังพื้นที่ ที่รับผิดชอบของ กบดน-ห. [EGAT Maemoh Mine GIS](http://10.249.111.129/web_data_gis/index.html) , [GIS Portal](https://gisportal.egat.co.th/portal/apps/webappviewer/index.html?id=045735ebd77247b3888b21b6983fb6af) , [image](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/DSD-NR_GIS_01.png)
 
 - มีการนำระบบ CCTV มาใช้เพื่อการควบคุมผู้รับจ้าง และงานรักษาความปลอดภัย ในพื้นที่ กฟผ. เหมืองแม่เมาะ ปัจจุบันมีการนำเทคโนโลยีดิจิทัลที่เกี่ยวข้องกับ Ai CCTV มาพัฒนาอย่างต่อเนื่อง EGAT - CiRA CORE
 
