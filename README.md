@@ -43,17 +43,21 @@
 
 - หนึ่งในทีมงานที่ได้รับรางวัล The Winner (The Best Business Model) หลักสูตรโลกธุรกิจท่ามกลางความเปลี่ยนแปลงและการแข่งขันเชิงนวัตกรรม ของ กฟผ. ปี 2562 
   
-- ผลักดันให้มีความร่วมมือระหว่าง EGAT กับ True เพื่อทดสอบระบบ 5G ในพื้นที่การทำเหมือง ในปี 2563 [EGAT-True MOU 5G](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/5G_MOU_EGAT_True.pdf) 
+- ผลักดันให้มีความร่วมมือระหว่าง EGAT กับ True เพื่อทดสอบระบบ 5G ในพื้นที่การทำเหมือง ในปี 2563 [EGAT-True MOU 5G](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/5G_MOU_EGAT_True.pdf)
+<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/EGAT_TRUE_MOU.jpg" height="250" />  
 
 - มีการพัฒนาต่อยอดบนระบบ EGAT GIS Center เพื่อสนับสนุนภาระกิจต่างๆ ของ กฟผ. เหมืองแม่เมาะ รวมทั้งขยายผลไปยังพื้นที่ ที่รับผิดชอบของ กบดน-ห. [EGAT Maemoh Mine GIS](http://10.249.111.129/web_data_gis/index.html) , [GIS Portal](https://gisportal.egat.co.th/portal/apps/webappviewer/index.html?id=045735ebd77247b3888b21b6983fb6af)  [, image](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/DSD-NR_GIS_01.png)
+<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/DSD-NR_GIS_01.png" height="250" />  
 
-- มีการนำระบบ CCTV มาใช้เพื่อการควบคุมผู้รับจ้าง และงานรักษาความปลอดภัย ในพื้นที่ กฟผ. เหมืองแม่เมาะ ปัจจุบันมีการนำเทคโนโลยีดิจิทัลที่เกี่ยวข้องกับ Ai CCTV มาพัฒนาอย่างต่อเนื่อง [EGAT - CiRA CORE](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/EGAT_AI_CiRA_CORE.pdf) 
+- มีการนำระบบ CCTV มาใช้เพื่อการควบคุมผู้รับจ้าง และงานรักษาความปลอดภัย ในพื้นที่ กฟผ. เหมืองแม่เมาะ ปัจจุบันมีการนำเทคโนโลยีดิจิทัลที่เกี่ยวข้องกับ Ai CCTV มาพัฒนาอย่างต่อเนื่อง [EGAT - CiRA CORE](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/EGAT_AI_CiRA_CORE.pdf) <br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/cira_core_01.jpg" height="250" />  
 
-- เบื้องหลังความสำเร็จของ ทีม DSD-NR ในโครงการ EGAT Innoventure 2024 จนทีมงานได้รับ [รางวัลชนะเลิศ "eX-BOX"](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/NROD-01.jpg) ณ วันที่ 5 กรกฎาคม 2567 [+image](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/NROD-05.jpg)
+- เบื้องหลังความสำเร็จของ ทีม DSD-NR ในโครงการ EGAT Innoventure 2024 จนทีมงานได้รับ [รางวัลชนะเลิศ "eX-BOX"](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/NROD-01.jpg) ณ วันที่ 5 กรกฎาคม 2567 [+image](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/NROD-05.jpg) <br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/NROD-01.jpg" height="250" />  <img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/NROD-05.jpg" height="250" />  
  
 - เบื้องหลังความสำเร็จของ ทีมงาน กบดน-ห. ผลงานสิ่งประดิษฐ์ [“ระบบพัฒนาตู้ควบคุมสัญญาณแจ้งเหตุเพลิงไหม้”](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/FireAlarm.jpg) โดยผู้ปฏิบัติงานสังกัด หบนด4-ห. กบดน-ห. อปท. ผ่านเข้ารอบแสดงผลงานในงานมหกรรมการแสดงผลงานที่คิดค้นหรือสิ่งประดิษฐ์สิ่งซึ่งเป็นประโยชน์แก่ กฟผ. ประจำปี 2567 : EGAT INNOVATION 2024” จากผลงานที่ผ่านเข้ารอบแสดงผลงานจำนวนทั้งหมด 30 ผลงาน ซึ่งงานนี้กำหนดจัดขึ้นระหว่างวันที่ 10-11 กันยายน 2567 ณ หอประชุมเกษม จาติกวณิช สำนักงานใหญ่ กฟผ. 
+<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/FireAlarm.jpg" height="250" /> 
   
 - ปัจุบันดำรงตำแหน่ง [หัวหน้างกองบริการดิจิทัลภาคเหนือ](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/DSD-NR_01.png) (กบดน-ห.) ดูแลระบบเทคโนโลยีดิจิทัล ให้หน่วยงานต่างๆ ที่ปฎิบัติงานในพื้นที่ 18 จังหวัดภาคเหนือ เขตปฎิบัติการภาคเหนือ , เขื่อนภูมิพล , เขื่อนสิริกิติ์ , เหมืองแม่เมาะ และโรงไฟฟ้าแม่เมาะ ให้มีความพร้อมใช้งาน รวมไปถึงการแลกเปลี่ยนเรียนรู้ระหว่างหน่วยงานต่างๆ ให้มีการพัฒนาระบบงานอย่างต่อเนื่อง 
+<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/DSD-NR_01.png" height="250" /> 
 
 ## การฝึกอบรม(168) และ การไปต่างประเทศ(17) [Heading link](https://pis.egat.co.th/ "ข้อมูลบุคคล")
 - 26-28 ก.ค.38 ดูงาน บ.ICC ด้านการผลิตเครื่องคอมพิวเตอร์ส่วนบุคคล (PC) ณ ประเทศ สิงคโปร์​
@@ -77,11 +81,11 @@
 # ความท้าทายในงาน กฟผ.
 - ทรัพยากรมนุษย์ [Maemoh Mine HR Report](https://powerbi.egat.co.th/pbireports/powerbi/MMM-Dashboard/MMM-HR/MMM%20Manpower?rs:embed=true "BI จำนวนผู้ปฎิบัติงาน และจำนวนผู้เกษียณ ชชม.")
 - เทคโนโลยีดิจิทัล
-    - [ ]  โครงสร้างพื้นฐาน
+    - [ ]  โครงสร้างพื้นฐาน ระบบเครื่องแม่ข่าย ที่มีความพร้อมให้บริการอย่างต่อเนื่อง
     - [ ]  เทคโนโลยีปัญญาประดิษฐ์แบบ Low Code เพื่อสนับสนุนงานด้านการผลิต และเพื่อการบริหาร
     - [ ]  งบประมาณด้านเทคโนโลยีดิจิทัล
     - [ ]  การพัฒนาบุคลากรด้านเทคโนโลยีดิจิทัล 
     - [ ]  งานวิจัย พัฒนา และสิ่งประดิษฐ์ โดยใช้เทคโนโลยีดิจิทัลให้เกิดประโยชน์ต่อ กฟผ.  
     - [ ]  การนำองค์ความรู้ในด้านเทคโนโลยีดิจิทัล ไปต่อยอดให้เกิดธุรกิจใหม่ สร้างรายได้ให้ กฟผ. 
 
-<br><img src="https://github.com/BigTUI/CCTV-Onvife-Cira-Core/blob/main/DahuaIMOU6MP.jpg" width="200" />
+
