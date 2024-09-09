@@ -4,7 +4,7 @@
 
 [![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/541699.png?ref_type=heads "Sridetch Pancharkan")](https://github.com/BigTUI/CiRA-Image/blob/main/541699.png?raw=true)
 
-<br><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" width="200" />
+<br><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" alt="BigTUI Sridetch Pancharkan" width="200" />
 
 ## ประวัติส่วนบุคคล
 - นายศรีเดช ปัญจขันธ์ (Mr.Sridetch Pancharkan) รหัสประจำตัว 541699 
