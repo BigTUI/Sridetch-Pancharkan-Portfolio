@@ -26,11 +26,13 @@
   
     - [ ] email เริ่มจาก กองศูนย์ Internet เป็นหน่วยงานแรกๆ ที่จัดให้บริการ email ของ กฟผ. ทำงานบนระบบ Unix (คุณปิยะ สมบูรณ์สำราญ)
 
-    - [ ] email ของเหมืองแม่เมาะมีการเชื่อมข้อมูลจาก กองศูนย์ Internet มาที่ MS-Mail Server (Windows Server 3.5) ที่เหมืองแม่เมาะ พร้อมให้บริการ File Sharing
+    - [ ] email ของเหมืองแม่เมาะมีการเชื่อมข้อมูลจาก กองศูนย์ Internet มาที่ MS-Mail Server ที่เหมืองแม่เมาะ พร้อมให้บริการ File Sharing
 
-- ในวิกฤติด้านการเงิน และค่าลิขสิทธิ์การใช้โปรแกรม มีการนำ Open Source Software มาใช้งานใน กฟผ. ทีมงานจึงมีการจัดทำ คู่มือการใช้งานโปรแกรม [Open Office](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OpenOffice.png) พร้อมกับจัดอบรมให้หน่วยงานต่างๆ ทั่วประเทศ (ทีมงานผู้เขียน คุณศรีเดช ปัญจขันธ์ โปรแกรม Writer, คุณสุพัตร์ สุประดิศกุล โปรแกรม Calc , คุณนรชัย ไกรฤกษ์ โปรแกรม Impress) 
+- ในวิกฤติด้านการเงิน และค่าลิขสิทธิ์การใช้โปรแกรม มีการนำ Open Source Software มาใช้งานใน กฟผ. ทีมงานจึงมีการจัดทำ คู่มือการใช้งานโปรแกรม [Open Office](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OpenOffice.png) พร้อมกับจัดอบรมให้หน่วยงานต่างๆ ทั่วประเทศ (ทีมงานผู้เขียน คุณศรีเดช ปัญจขันธ์ โปรแกรม Writer, คุณสุพัตร์ สุประดิศกุล โปรแกรม Calc , คุณนรชัย ไกรฤกษ์ โปรแกรม Impress)
+<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OpenOffice.png" alt="BigTUI Sridetch Pancharkan" high="250" />
 
 - จัดทำคู่มือการใช้งานออฟฟิศทะเล [(OfficeTLE)](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OfficeTLE.png) ให้กับ NECTEC (ทีมงานผู้เขียนคุณศรีเดช ปัญจขันธ์ , คุณนรชัย ไกรฤกษ์) 
+<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OfficeTLE.png" alt="BigTUI Sridetch Pancharkan" high="250" />
 
 - ริเริ่มนำเทคโนโลยี IoT (Internet of Things) มาสนับสนุนงานด้านการผลิตของเหมืองแม่เมาะ ทั้งงานด้านความปลอดภัยต่อชีวิติ และทรัพย์สินของ กฟผ. รวมไปถึงการขายผลให้ความรู้และแนะนำให้กับหน่วยงานต่างๆ ใน กฟผ. อย่างต่อเนื่องจนถึงปัจจุบัน [mmm-iotegat](https://mmm-iotegat.egat.co.th/dashboard), [SIRIKIR Dam IoT](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/IoEE_for_water_pump_system_at_Sirikit_Dam.pdf)
 
