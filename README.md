@@ -4,6 +4,8 @@
 
 [![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/541699.png?ref_type=heads "Sridetch Pancharkan")](https://github.com/BigTUI/CiRA-Image/blob/main/541699.png?raw=true)
 
+<br><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" width="200" />
+
 ## ประวัติส่วนบุคคล
 - นายศรีเดช ปัญจขันธ์ (Mr.Sridetch Pancharkan) รหัสประจำตัว 541699 
 - ปริญญาตรี วิศวกรรมศาสตร์ วิศวกรรมอิเล็กทรอนิกส์ สถาบันเทคโนโลยีราชมงคล วข.เทเวศร์ ปี พ.ศ.2533 ภฟส.4809 เลขที่สมาชิก : 55691
@@ -25,9 +27,9 @@
   
 - Microsoft Mail ที่แรกใน กฟผ.
   
- -- email เริ่มจาก กองศูนย์ Internet เป็นหน่วยงานแรกๆ ที่จัดให้บริการ email ของ กฟผ. ทำงานบนระบบ Unix (คุณปิยะ สมบูรณ์สำราญ)
+    - [ ] email เริ่มจาก กองศูนย์ Internet เป็นหน่วยงานแรกๆ ที่จัดให้บริการ email ของ กฟผ. ทำงานบนระบบ Unix (คุณปิยะ สมบูรณ์สำราญ)
 
- -- email ของเหมืองแม่เมาะมีการเชื่อมข้อมูลจาก กองศูนย์ Internet มาที่ MS-Mail Server (Windows Server 3.5) ที่เหมืองแม่เมาะ พร้อมให้บริการ File Sharing
+    - [ ] email ของเหมืองแม่เมาะมีการเชื่อมข้อมูลจาก กองศูนย์ Internet มาที่ MS-Mail Server (Windows Server 3.5) ที่เหมืองแม่เมาะ พร้อมให้บริการ File Sharing
 
 - ในวิกฤติด้านการเงิน และค่าลิขสิทธิ์การใช้โปรแกรม มีการนำ Open Source Software มาใช้งานใน กฟผ. ทีมงานจึงมีการจัดทำ คู่มือการใช้งานโปรแกรม [Open Office](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OpenOffice.png) พร้อมกับจัดอบรมให้หน่วยงานต่างๆ ทั่วประเทศ (ทีมงานผู้เขียน คุณศรีเดช ปัญจขันธ์ โปรแกรม Writer, คุณสุพัตร์ สุประดิศกุล โปรแกรม Calc , คุณนรชัย ไกรฤกษ์ โปรแกรม Impress) 
 
@@ -80,4 +82,4 @@
     - [ ]  งานวิจัย พัฒนา และสิ่งประดิษฐ์ โดยใช้เทคโนโลยีดิจิทัลให้เกิดประโยชน์ต่อ กฟผ.  
     - [ ]  การนำองค์ความรู้ในด้านเทคโนโลยีดิจิทัล ไปต่อยอดให้เกิดธุรกิจใหม่ สร้างรายได้ให้ กฟผ. 
 
-
+<br><img src="https://github.com/BigTUI/CCTV-Onvife-Cira-Core/blob/main/DahuaIMOU6MP.jpg" width="200" />
