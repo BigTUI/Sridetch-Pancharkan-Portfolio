@@ -1,6 +1,6 @@
 # Mr.Sridetch Pancharkan Portfolio 
 ## แนะนำตัวกันก่อน
-สวัสดีทุกท่านที่มาเยือนเพจ แนะนำตัวของ นายศรีเดช ปัญจขันธ์ (ตุ้ย , ต่อง)
+นายศรีเดช ปัญจขันธ์ (ตุ้ย , ต่อง )
 <br><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" alt="BigTUI Sridetch Pancharkan" height="250" />
 
 ## ประวัติส่วนบุคคล
