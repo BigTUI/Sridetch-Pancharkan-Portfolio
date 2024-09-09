@@ -39,8 +39,6 @@
 - หัวหน้าทีม โครงการบริหารกลุ่มผู้มีศักยภาพระดับปฏิบัติการ Young Talent (YT4-7) "Smart Mining"  ปี 2562 (2019) ผ่านเข้ารอบ เป็นผู้แทนหนึ่งในสองทีม ของสายงาน รวห. และได้รับรางวัล Best of the Best ของ โครงการ [Image 1](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-002.jpg)[ , Image 2](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-003.jpg) [ , Image 3](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-004.jpg)
 <br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-002.jpg" height="250" />  <img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-003.jpg" height="250" /> <img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-004.jpg" height="250" /> 
 
-
-
 - หนึ่งในทีมงานที่ได้รับรางวัล The Winner (The Best Business Model) หลักสูตรโลกธุรกิจท่ามกลางความเปลี่ยนแปลงและการแข่งขันเชิงนวัตกรรม ของ กฟผ. ปี 2562 
   
 - ผลักดันให้มีความร่วมมือระหว่าง EGAT กับ True เพื่อทดสอบระบบ 5G ในพื้นที่การทำเหมือง ในปี 2563 [EGAT-True MOU 5G](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/5G_MOU_EGAT_True.pdf)
