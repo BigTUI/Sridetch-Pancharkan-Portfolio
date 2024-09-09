@@ -22,10 +22,6 @@
 
 [OnePage Portfolio](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/EGAT%20Profile%20SRIDETCH%20Pancharkan.pdf)
 
-<a href="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/EGAT%20Profile%20SRIDETCH%20Pancharkan.pdf" target="_blank">OnePage Portfolio</a>
-
-[OnePage Portfolio](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/EGAT%20Profile%20SRIDETCH%20Pancharkan.pdf){:target="_blank" rel="noopener"}
-
 ## ผลงานที่น่าสนใจ
 - เข้าทำงานใหม่ที่ฝ่ายวิศวกรรมพลังน้ำ ได้มีโอกาสร่วมงานกับโครงการระบบสูบน้ำกลับเครื่องที่ 8 เขื่อนภูมิพล โดยมีงานออกแบบระบบไฟฟ้า ควบคุมการวางแผนระเบิดหินโครงสร้างฐานเขื่อน งานระบบโยธา ฯลฯ
 - Microsoft Mail ที่แรกใน กฟผ.
