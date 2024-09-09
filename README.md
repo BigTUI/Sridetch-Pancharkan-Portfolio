@@ -34,9 +34,10 @@
 - จัดทำคู่มือการใช้งานออฟฟิศทะเล [(OfficeTLE)](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OfficeTLE.png) ให้กับ NECTEC (ทีมงานผู้เขียนคุณศรีเดช ปัญจขันธ์ , คุณนรชัย ไกรฤกษ์) 
 <br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OfficeTLE.png" alt="BigTUI Sridetch Pancharkan" high="250" />
 
-- ริเริ่มนำเทคโนโลยี IoT (Internet of Things) มาสนับสนุนงานด้านการผลิตของเหมืองแม่เมาะ ทั้งงานด้านความปลอดภัยต่อชีวิติ และทรัพย์สินของ กฟผ. รวมไปถึงการขายผลให้ความรู้และแนะนำให้กับหน่วยงานต่างๆ ใน กฟผ. อย่างต่อเนื่องจนถึงปัจจุบัน [mmm-iotegat](https://mmm-iotegat.egat.co.th/dashboard), [SIRIKIR Dam IoT](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/IoEE_for_water_pump_system_at_Sirikit_Dam.pdf)
+- ริเริ่มนำเทคโนโลยี IoT (Internet of Things) มาสนับสนุนงานด้านการผลิตของเหมืองแม่เมาะ ทั้งงานด้านความปลอดภัยต่อชีวิติ และทรัพย์สินของ กฟผ. รวมไปถึงการขายผลให้ความรู้และแนะนำให้กับหน่วยงานต่างๆ ใน กฟผ. อย่างต่อเนื่องจนถึงปัจจุบัน [Internet link : mmm-iotegat](https://mmm-iotegat.egat.co.th/dashboard), [SIRIKIR Dam IoT Report](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/IoEE_for_water_pump_system_at_Sirikit_Dam.pdf)
 
 - หัวหน้าทีม โครงการบริหารกลุ่มผู้มีศักยภาพระดับปฏิบัติการ Young Talent (YT4-7) "Smart Mining"  ปี 2562 (2019) ผ่านเข้ารอบ เป็นผู้แทนหนึ่งในสองทีม ของสายงาน รวห. และได้รับรางวัล Best of the Best ของ โครงการ [Image 1](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-002.jpg)[ , Image 2](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-003.jpg) [ , Image 3](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-004.jpg)
+<br><img src="https://github.com/BigTUI/CiRA-Image/blob/main/YT2019_BastOfTheBest-002.jpg" width="200" />  <img src="https://github.com/BigTUI/CiRA-Image/blob/main/YT2019_BastOfTheBest-003.jpg" width="200" /> <img src="https://github.com/BigTUI/CiRA-Image/blob/main/YT2019_BastOfTheBest-004.jpg" width="200" /> 
 
 - หนึ่งในทีมงานที่ได้รับรางวัล The Winner (The Best Business Model) หลักสูตรโลกธุรกิจท่ามกลางความเปลี่ยนแปลงและการแข่งขันเชิงนวัตกรรม ของ กฟผ. ปี 2562 
   
