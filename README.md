@@ -1,7 +1,7 @@
 # Mr.Sridetch Pancharkan Portfolio 
 ## แนะนำตัวกันก่อน
 สวัสดีทุกท่านที่มาเยือนเพจ แนะนำตัวของ นายศรีเดช ปัญจขันธ์ (ตุ้ย , ต่อง)
-<br><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" alt="BigTUI Sridetch Pancharkan" width="200" />
+<br><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" alt="BigTUI Sridetch Pancharkan" height="250" />
 
 ## ประวัติส่วนบุคคล
 - นายศรีเดช ปัญจขันธ์ (Mr.Sridetch Pancharkan) รหัสประจำตัว 541699 
@@ -29,15 +29,15 @@
     - [ ] email ของเหมืองแม่เมาะมีการเชื่อมข้อมูลจาก กองศูนย์ Internet มาที่ MS-Mail Server ที่เหมืองแม่เมาะ พร้อมให้บริการ File Sharing
 
 - ในวิกฤติด้านการเงิน และค่าลิขสิทธิ์การใช้โปรแกรม มีการนำ Open Source Software มาใช้งานใน กฟผ. ทีมงานจึงมีการจัดทำ คู่มือการใช้งานโปรแกรม [Open Office](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OpenOffice.png) พร้อมกับจัดอบรมให้หน่วยงานต่างๆ ทั่วประเทศ (ทีมงานผู้เขียน คุณศรีเดช ปัญจขันธ์ โปรแกรม Writer, คุณสุพัตร์ สุประดิศกุล โปรแกรม Calc , คุณนรชัย ไกรฤกษ์ โปรแกรม Impress)
-<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OpenOffice.png" alt="BigTUI Sridetch Pancharkan" high="250" />
+<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OpenOffice.png" alt="BigTUI Sridetch Pancharkan" height="250" />
 
 - จัดทำคู่มือการใช้งานออฟฟิศทะเล [(OfficeTLE)](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OfficeTLE.png) ให้กับ NECTEC (ทีมงานผู้เขียนคุณศรีเดช ปัญจขันธ์ , คุณนรชัย ไกรฤกษ์) 
-<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OfficeTLE.png" alt="BigTUI Sridetch Pancharkan" high="250" />
+<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OfficeTLE.png" alt="BigTUI Sridetch Pancharkan" height="250" />
 
 - ริเริ่มนำเทคโนโลยี IoT (Internet of Things) มาสนับสนุนงานด้านการผลิตของเหมืองแม่เมาะ ทั้งงานด้านความปลอดภัยต่อชีวิติ และทรัพย์สินของ กฟผ. รวมไปถึงการขายผลให้ความรู้และแนะนำให้กับหน่วยงานต่างๆ ใน กฟผ. อย่างต่อเนื่องจนถึงปัจจุบัน [Internet link : mmm-iotegat](https://mmm-iotegat.egat.co.th/dashboard), [SIRIKIR Dam IoT Report](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/IoEE_for_water_pump_system_at_Sirikit_Dam.pdf)
 
 - หัวหน้าทีม โครงการบริหารกลุ่มผู้มีศักยภาพระดับปฏิบัติการ Young Talent (YT4-7) "Smart Mining"  ปี 2562 (2019) ผ่านเข้ารอบ เป็นผู้แทนหนึ่งในสองทีม ของสายงาน รวห. และได้รับรางวัล Best of the Best ของ โครงการ [Image 1](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-002.jpg)[ , Image 2](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-003.jpg) [ , Image 3](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-004.jpg)
-<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-002.jpg" high="250" />  <img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-003.jpg" high="250" /> <img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-004.jpg" high="250" /> 
+<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-002.jpg" height="250" />  <img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-003.jpg" height="250" /> <img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-004.jpg" height="250" /> 
 
 
 
