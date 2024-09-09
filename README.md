@@ -27,19 +27,19 @@
 -- email ของเหมืองแม่เมาะมีการเชื่อมข้อมูลจาก กองศูนย์ Internet มาที่ MS-Mail Server (Windows Server 3.5) ที่เหมืองแม่เมาะ พร้อมให้บริการ File Sharing
 
 
-- ในวิกฤติด้านการเงิน และค่าลิขสิทธิ์การใช้โปรแกรม มีการนำ Open Source Software มาใช้งานใน กฟผ. ทีมงานจึงมีการจัดทำ คู่มือการใช้งานโปรแกรม Open Office พร้อมกับจัดอบรมให้หน่วยงานต่างๆ ทั่วประเทศ (คุณศรีเดช ปัญจขันธ์ โปรแกรม Writer, คุณสุพัตร์ สุประดิศกุล โปรแกรม Calc , คุณนรชัย ไกรฤกษ์ โปรแกรม Impress)
+- ในวิกฤติด้านการเงิน และค่าลิขสิทธิ์การใช้โปรแกรม มีการนำ Open Source Software มาใช้งานใน กฟผ. ทีมงานจึงมีการจัดทำ คู่มือการใช้งานโปรแกรม [Open Office](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OpenOffice.png) พร้อมกับจัดอบรมให้หน่วยงานต่างๆ ทั่วประเทศ (ทีมงานผู้เขียน คุณศรีเดช ปัญจขันธ์ โปรแกรม Writer, คุณสุพัตร์ สุประดิศกุล โปรแกรม Calc , คุณนรชัย ไกรฤกษ์ โปรแกรม Impress) 
 
-- จัดทำคู่มือการใช้งานออฟฟิศทะเล (OfficeTLE) ให้กับ NECTEC (คุณศรีเดช ปัญจขันธ์ , คุณนรชัย ไกรฤกษ์)
+- จัดทำคู่มือการใช้งานออฟฟิศทะเล [(OfficeTLE)](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OfficeTLE.png) ให้กับ NECTEC (ทีมงานผู้เขียนคุณศรีเดช ปัญจขันธ์ , คุณนรชัย ไกรฤกษ์) 
 
 - ริเริ่มนำเทคโนโลยี IoT (Internet of Things) มาสนับสนุนงานด้านการผลิตของเหมืองแม่เมาะ ทั้งงานด้านความปลอดภัยต่อชีวิติ และทรัพย์สินของ กฟผ. รวมไปถึงการขายผลให้ความรู้และแนะนำให้กับหน่วยงานต่างๆ ใน กฟผ. อย่างต่อเนื่องจนถึงปัจจุบัน [mmm-iotegat](https://mmm-iotegat.egat.co.th/dashboard), [SIRIKIR Dam IoT](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/IoEE_for_water_pump_system_at_Sirikit_Dam.pdf)
 
-- หัวหน้าทีม โครงการบริหารกลุ่มผู้มีศักยภาพระดับปฏิบัติการ Young Talent (YT4-7) "Smart Mining"  ปี 2562 ผ่านเข้ารอบ เป็นผู้แทนหนึ่งในสองทีม ของสายงาน รวห. และได้รับรางวัล Best of the Best ของ โครงการ [Image 1](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2017_BastOfTheBest-002.jpg)[Image 2](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2017_BastOfTheBest-003.jpg)
+- หัวหน้าทีม โครงการบริหารกลุ่มผู้มีศักยภาพระดับปฏิบัติการ Young Talent (YT4-7) "Smart Mining"  ปี 2562 (2019) ผ่านเข้ารอบ เป็นผู้แทนหนึ่งในสองทีม ของสายงาน รวห. และได้รับรางวัล Best of the Best ของ โครงการ [Image 1](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-002.jpg)[ , Image 2](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-003.jpg) [ , Image 3](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/YT2019_BastOfTheBest-004.jpg)
 
-- หนึ่งในทีมงานที่ได้รับรางวัล The Winner (The Best Business Model) หลักสูตรโลกธุรกิจท่ามกลางความเปลี่ยนแปลงและการแข่งขันเชิงนวัตกรรม ของ กฟผ. ปี 2562
+- หนึ่งในทีมงานที่ได้รับรางวัล The Winner (The Best Business Model) หลักสูตรโลกธุรกิจท่ามกลางความเปลี่ยนแปลงและการแข่งขันเชิงนวัตกรรม ของ กฟผ. ปี 2562 
   
 - ผลักดันให้มีความร่วมมือระหว่าง EGAT กับ True เพื่อทดสอบระบบ 5G ในพื้นที่การทำเหมือง ในปี 2563 [EGAT-True MOU 5G](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/5G_MOU_EGAT_True.pdf) 
 
-- มีการพัฒนาต่อยอดบนระบบ EGAT GIS Center เพื่อสนับสนุนภาระกิจต่างๆ ของ กฟผ. เหมืองแม่เมาะ รวมทั้งขยายผลไปยังพื้นที่ ที่รับผิดชอบของ กบดน-ห. [EGAT Maemoh Mine GIS](http://10.249.111.129/web_data_gis/index.html) , [GIS Portal](https://gisportal.egat.co.th/portal/apps/webappviewer/index.html?id=045735ebd77247b3888b21b6983fb6af) , [image](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/DSD-NR_GIS_01.png)
+- มีการพัฒนาต่อยอดบนระบบ EGAT GIS Center เพื่อสนับสนุนภาระกิจต่างๆ ของ กฟผ. เหมืองแม่เมาะ รวมทั้งขยายผลไปยังพื้นที่ ที่รับผิดชอบของ กบดน-ห. [EGAT Maemoh Mine GIS](http://10.249.111.129/web_data_gis/index.html) , [GIS Portal](https://gisportal.egat.co.th/portal/apps/webappviewer/index.html?id=045735ebd77247b3888b21b6983fb6af)  [, image](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/DSD-NR_GIS_01.png)
 
 - มีการนำระบบ CCTV มาใช้เพื่อการควบคุมผู้รับจ้าง และงานรักษาความปลอดภัย ในพื้นที่ กฟผ. เหมืองแม่เมาะ ปัจจุบันมีการนำเทคโนโลยีดิจิทัลที่เกี่ยวข้องกับ Ai CCTV มาพัฒนาอย่างต่อเนื่อง EGAT - CiRA CORE
 
