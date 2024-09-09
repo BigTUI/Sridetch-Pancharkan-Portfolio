@@ -18,8 +18,11 @@
 - วันเข้าทำงาน 1 ก.ค. 2535    อายุงาน กฟผ. : 31 ปี
 - ปีเกษียณ : 1 ต.ค. 2571	อายุงานคงเหลือ : 4 ปี 5 เดือน 
 - ปัจจุบันดำรงตำแหน่ง หัวหน้ากองบริการดิจิทัลภาคเหนือ / กบดน-ห. อปท. ชหท. รวห 
-(ข้อมูล ณ วันที่ 18 เมษายน 2567 https://pis.egat.co.th/)
+(ข้อมูล ณ วันที่ 18 เมษายน 2567 https://pis.egat.co.th/ , https://portfolio.egat.co.th/)
+
 [OnePage Portfolio](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/EGAT%20Profile%20SRIDETCH%20Pancharkan.pdf)
+
+<a href="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/EGAT%20Profile%20SRIDETCH%20Pancharkan.pdf" target="_blank">OnePage Portfolio</a>
 
 <a href="[http://stackoverflow.com](https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/EGAT%20Profile%20SRIDETCH%20Pancharkan.pdf
 )" target="_blank">OnePage Portfolio</a>
