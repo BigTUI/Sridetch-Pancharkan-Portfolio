@@ -22,18 +22,33 @@
 
 ## ผลงานที่น่าสนใจ
 - เข้าทำงานใหม่ที่ฝ่ายวิศวกรรมพลังน้ำ ได้มีโอกาสร่วมงานกับโครงการระบบสูบน้ำกลับเครื่องที่ 8 เขื่อนภูมิพล โดยมีงานออกแบบระบบไฟฟ้า ควบคุมการวางแผนระเบิดหินโครงสร้างฐานเขื่อน งานระบบโยธา ฯลฯ
-- Microsoft Mail ที่แรกใน กฟผ. 
-    * email เริ่มจาก กองศูนย์ Internet เป็นหน่วยงานแรกๆ ที่จัดให้บริการ email ของ กฟผ. ทำงานบนระบบ Unix (คุณปิยะ สมบูรณ์สำราญ)
-    * email ของเหมืองแม่เมาะมีการเชื่อมข้อมูลจาก กองศูนย์ Internet มาที่ MS-Mail Server (Windows Server 3.5) ที่เหมืองแม่เมาะ พร้อมให้บริการ File Sharing 
+- Microsoft Mail ที่แรกใน กฟผ.
+-- email เริ่มจาก กองศูนย์ Internet เป็นหน่วยงานแรกๆ ที่จัดให้บริการ email ของ กฟผ. ทำงานบนระบบ Unix (คุณปิยะ สมบูรณ์สำราญ)
+-- email ของเหมืองแม่เมาะมีการเชื่อมข้อมูลจาก กองศูนย์ Internet มาที่ MS-Mail Server (Windows Server 3.5) ที่เหมืองแม่เมาะ พร้อมให้บริการ File Sharing
+
+
 - ในวิกฤติด้านการเงิน และค่าลิขสิทธิ์การใช้โปรแกรม มีการนำ Open Source Software มาใช้งานใน กฟผ. ทีมงานจึงมีการจัดทำ คู่มือการใช้งานโปรแกรม Open Office พร้อมกับจัดอบรมให้หน่วยงานต่างๆ ทั่วประเทศ
-    * คุณศรีเดช ปัญจขันธ์ โปรแกรม Writer, คุณสุพัตร์ สุประดิศกุล โปรแกรม Calc , คุณนรชัย ไกรฤกษ์ โปรแกรม Impress
-- จัดทำคู่มือการใช้งานออฟฟิศทะเล (OfficeTLE) ให้กับ NECTEC 
-    * คุณศรีเดช ปัญจขันธ์ , คุณนรชัย ไกรฤกษ์
-- ริเริ่มนำเทคโนโลยี IoT (Internet of Things) มาสนับสนุนงานด้านการผลิตของเหมืองแม่เมาะ ทั้งงานด้านความปลอดภัยต่อชีวิติ และทรัพย์สินของ กฟผ. รวมไปถึงการขายผลให้ความรู้และแนะนำให้กับหน่วยงานต่างๆ ใน กฟผ. อย่างต่อเนื่องจนถึงปัจจุบัน [mmm-iotegat link](https://mmm-iotegat.egat.co.th/dashboard "Maemoh Mine IoT") [, SIRIKIR Dam IoT](https://github.com/BigTUI/CiRA-Image/blob/main/IoEE_for_water_pump_system_at_Sirikit_Dam.pdf "SIRIKIT DAM IoT for Drinking Water System")
-- มีการพัฒนาต่อยอดบนระบบ EGAT GIS Center เพื่อสนับสนุนภาระกิจต่างๆ ของ กฟผ. เหมืองแม่เมาะ รวมทั้งขยายผลไปยังพื้นที่ ที่รับผิดชอบของ กบดน-ห.[EGAT Maemoh Mine GIS Intranet Only](http://10.249.111.129/web_data_gis/index.html "Maemoh Mine GIS")
-- มีการนำระบบ CCTV มาใช้เพื่อการควบคุมผู้รับจ้าง และงานรักษาความปลอดภัย ในพื้นที่ กฟผ. เหมืองแม่เมาะ ปัจจุบันมีการนำเทคโนโลยีดิจิทัลที่เกี่ยวข้องกับ Ai CCTV มาพัฒนาอย่างต่อเนื่อง 
+
+  -- คุณศรีเดช ปัญจขันธ์ โปรแกรม Writer, คุณสุพัตร์ สุประดิศกุล โปรแกรม Calc , คุณนรชัย ไกรฤกษ์ โปรแกรม Impress
+
+- จัดทำคู่มือการใช้งานออฟฟิศทะเล (OfficeTLE) ให้กับ NECTEC
+
+  -- คุณศรีเดช ปัญจขันธ์ , คุณนรชัย ไกรฤกษ์
+
+
+- ริเริ่มนำเทคโนโลยี IoT (Internet of Things) มาสนับสนุนงานด้านการผลิตของเหมืองแม่เมาะ ทั้งงานด้านความปลอดภัยต่อชีวิติ และทรัพย์สินของ กฟผ. รวมไปถึงการขายผลให้ความรู้และแนะนำให้กับหน่วยงานต่างๆ ใน กฟผ. อย่างต่อเนื่องจนถึงปัจจุบัน mmm-iotegat link , SIRIKIR Dam IoT
+
+- หัวหน้าทีม โครงการบริหารกลุ่มผู้มีศักยภาพระดับปฏิบัติการ Young Talent (YT4-7) "Smart Mining"  ปี 2562 ผ่านเข้ารอบ เป็นผู้แทนหนึ่งในสองทีม ของสายงาน รวห.
+- หนึ่งในทีมงานที่ได้รับรางวัล The Winner (The Best Business Model) หลักสูตรโลกธุรกิจท่ามกลางความเปลี่ยนแปลงและการแข่งขันเชิงนวัตกรรม ของ กฟผ. ปี 2562
+- ผลักดันให้มีความร่วมมือระหว่าง EGAT กับ True เพื่อทดสอบระบบ 5G ในพื้นที่การทำเหมือง ในปี 2563 EGAT-True MOU 5G
+
+- มีการพัฒนาต่อยอดบนระบบ EGAT GIS Center เพื่อสนับสนุนภาระกิจต่างๆ ของ กฟผ. เหมืองแม่เมาะ รวมทั้งขยายผลไปยังพื้นที่ ที่รับผิดชอบของ กบดน-ห. EGAT Maemoh Mine GIS
+
+- มีการนำระบบ CCTV มาใช้เพื่อการควบคุมผู้รับจ้าง และงานรักษาความปลอดภัย ในพื้นที่ กฟผ. เหมืองแม่เมาะ ปัจจุบันมีการนำเทคโนโลยีดิจิทัลที่เกี่ยวข้องกับ Ai CCTV มาพัฒนาอย่างต่อเนื่อง EGAT - CiRA CORE
+
+- เบื้องหลังความสำเร็จของ ทีม DSD-NR ในโครงการ EGAT Innoventure 2024 จนทีมงานได้รับรางวัลชนะเลิศ "eX-BOX" ณ วันที่ 5 กรกฎาคม 2567
+- เบื้องหลังความสำเร็จของ ทีมงาน กบดน-ห. ผลงานสิ่งประดิษฐ์ “ระบบพัฒนาตู้ควบคุมสัญญาณแจ้งเหตุเพลิงไหม้” โดยผู้ปฏิบัติงานสังกัด หบนด4-ห. กบดน-ห. อปท. ผ่านเข้ารอบแสดงผลงานในงานมหกรรมการแสดงผลงานที่คิดค้นหรือสิ่งประดิษฐ์สิ่งซึ่งเป็นประโยชน์แก่ กฟผ. ประจำปี 2567 : EGAT INNOVATION 2024” จากผลงานที่ผ่านเข้ารอบแสดงผลงานจำนวนทั้งหมด 30 ผลงาน ซึ่งงานนี้กำหนดจัดขึ้นระหว่างวันที่ 10-11 กันยายน 2567 ณ หอประชุมเกษม จาติกวณิช สำนักงานใหญ่ กฟผ.
 - ปัจุบันดูแลระบบเทคโนโลยีดิจิทัล ให้หน่วยงานต่างๆ ที่ปฎิบัติงานในพื้นที่ 18 จังหวัดภาคเหนือ เขตปฎิบัติการภาคเหนือ , เขื่อนภูมิพล , เขื่อนสิริกิติ์ , เหมืองแม่เมาะ และโรงไฟฟ้าแม่เมาะ ให้มีความพร้อมใช้งาน รวมไปถึงการแลกเปลี่ยนเรียนรู้ระหว่างหน่วยงานต่างๆ ให้มีการพัฒนาระบบงานอย่างต่อเนื่อง
-- พัฒนาสิ่งประดิษฐ์ ร่วมกับทีมงานต่างๆ ใน กฟผ. เคยนำทีม YT ในฐานะ Leader ปัจจุบันสนับสนุนทีมงานคนรุ่นใหม่ให้มีการพัฒนางานด้วยเทคโนโลยีที่ทันสมัยอย่างต่อเนื่อง และเปิดรับ ไม่ปิดกั้นแนวความคิดใหม่ๆ ผลงานล่าสุดส่งน้องๆ เข้าโครงการ EGAT Innovation 2024 ในนามทีม DSD-NR 
 
 ## การฝึกอบรม(168) และ การไปต่างประเทศ(17) [Heading link](https://pis.egat.co.th/ "ข้อมูลบุคคล")
 - 26-28 ก.ค.38 ดูงาน บ.ICC ด้านการผลิตเครื่องคอมพิวเตอร์ส่วนบุคคล (PC) ณ ประเทศ สิงคโปร์​
@@ -65,12 +80,26 @@
     - [ ]  การนำองค์ความรู้ในด้านเทคโนโลยีดิจิทัล ไปต่อยอดให้เกิดธุรกิจใหม่ สร้างรายได้ให้ กฟผ. 
 
 # ภาพประกอบ 
-[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/OfficeTLE.png?raw=true "NECTEC OfficeTLE")](https://github.com/BigTUI/CiRA-Image/blob/main/OfficeTLE.png?raw=true)
+[![BigTUI Sridetch Pancharkan](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/OfficeTLE.png "NECTEC OfficeTLE")](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/OfficeTLE.png)
 
-[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/OpenOffice.png?raw=true "EGAT OpenOffice")](https://github.com/BigTUI/CiRA-Image/blob/main/OpenOffice.png?raw=true)
+[![BigTUI Sridetch Pancharkan](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/OpenOffice.png?ref_type=heads "EGAT OpenOffice")](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/OpenOffice.png?ref_type=heads)
 
-<hr width="100%"/> <br>
+เยี่ยมชม CiRA CORE พัฒนาโดย วิทยาลัยนวัตกรรมการผลิตขั้นสูง และคณะเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง ภายใต้การสนับสนุนของ สำนักงานคณะกรรมการส่งเสริมวิทยาศาสตร์ วิจัยและนวัตกรรม (สกสว.) สำนักงานการวิจัยแห่งชาติ (วช.)
 
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_02.jpg" width="90%"/>
+[![BigTUI Sridetch Pancharkan](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/cira_core_002.jpg?ref_type=heads "EGAT OpenOffice")](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/cira_core_002.jpg?ref_type=heads)
 
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_Sridetch.jpg" width="45%"> <img src="https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_Suriya.jpg" width="45%">
+
+โครงการ INNOVENTURE 2024 จากฝ่ายวิจัยและนวัตกรรม รับรางวัลชนะเลิศ "eX-BOX" ณ วันที่ 5 กรกฎาคม 2567 
+
+[![BigTUI Sridetch Pancharkan](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/NROD-01.jpg?ref_type=heads "EGAT INNOVENTURE 2024")](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/NROD-01.jpg?ref_type=heads)
+
+
+[![BigTUI Sridetch Pancharkan](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/NROD-05.jpg?ref_type=heads "EGAT INNOVENTURE 2024")](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/NROD-05.jpg?ref_type=heads)
+
+ผลงานสิ่งประดิษฐ์ “ระบบพัฒนาตู้ควบคุมสัญญาณแจ้งเหตุเพลิงไหม้” โดยผู้ปฏิบัติงานสังกัด หบนด4-ห. กบดน-ห. อปท.
+
+[![BigTUI Sridetch Pancharkan](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/FireAlarm.jpg "EGAT INNOVENTURE 2024")](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/FireAlarm.jpg)
+
+ระบบ CCTV ใหนพื้นที่เหมืองแม่เมาะ
+
+[![BigTUI Sridetch Pancharkan](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/CCTV_MMM.png?ref_type=heads "EGAT INNOVENTURE 2024")](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan/-/raw/main/CCTV_MMM.png?ref_type=heads)
