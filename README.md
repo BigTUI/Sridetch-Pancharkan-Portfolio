@@ -86,4 +86,4 @@
     - [ ]  งานวิจัย พัฒนา และสิ่งประดิษฐ์ โดยใช้เทคโนโลยีดิจิทัลให้เกิดประโยชน์ต่อ กฟผ.  
     - [ ]  การนำองค์ความรู้ในด้านเทคโนโลยีดิจิทัล ไปต่อยอดให้เกิดธุรกิจใหม่ สร้างรายได้ให้ กฟผ. 
 
-
+<br><img src="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio/blob/main/OnePage Sridetch.jpg" height="250" />
