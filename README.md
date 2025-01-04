@@ -67,7 +67,7 @@
 - 2-5 ต.ค. 55 อบรมหลักสูตร ICT Management for ICT Manager (ITM รุ่น 3 สวทช.) ดูงานในประเทศและ ประเทศสิงคโปร์
 - 12-15 ธ.ค. 55 EEP:EGAT Enhancing Program for Head ดูงาน ณ ประเทศมาเลเซีย​
 - 11-15 มี.ค. 56 Workshop Inspection อุปกรณ์ของงานปรับปรุงระบบ PLC สายพาน ณ ประเทศ เยอรมัน
-- 4-9 ก.ย. 67 ร่วมงาน Huawei Connect 2017" ณ เมืองเซียงไฮ้ ประเทศสาธารณรัฐประชาชนจีน
+- 4-9 ก.ย. 60 ร่วมงาน Huawei Connect 2017" ณ เมืองเซียงไฮ้ ประเทศสาธารณรัฐประชาชนจีน
 
 ## แนวโน้มงานด้านเทคโนโลยีดิจิทัล
 - IT Infrastructure [IT Infrastructure](https://aws.amazon.com/th/what-is/it-infrastructure/ "โครงสร้างพื้นฐานด้านไอทีคืออะไร") [, IT Infrastructure Manager](https://www.bmc.com/blogs/infrastructure-manager-roles-responsibilities/ "The IT Infrastructure Manager: Roles & Responsibilities") 
